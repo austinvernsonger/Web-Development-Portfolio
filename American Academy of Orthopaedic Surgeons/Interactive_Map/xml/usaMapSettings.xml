@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+<mapSettings 
+
+mapWidth = "600"
+mapHeight = "680"
+
+offColor = "222222"
+strokeColor = "24221f"
+
+useSideText = "true"
+textAreaWidth = "400"
+textAreaPadding = "30"
+
+/>
+
+<defaultSideText>
+  <![CDATA[<h1>Board of Councilors</h1><br /><p><b>Board of Councilors by State</b><br><br /><br />Each orthopaedic surgeon who serves on the Board of Councilors acts as your representative and liaison to the Academy. A Councilor's goal is to represent your opinions, ideas, suggestions, and seek input on issues that affect orthopaedic surgeons and their patients. Each Councilor is responsible for taking comments and suggestions and presenting them at one of their three meetings and encouraging the Academy to take action. <p>The Board of Councilors has played active roles in encouraging the Academy to pursue public advocacy efforts and have help to refine the algorithms review process allowing more input and comments on the algorithms. Your Councilor needs input on issues that are important to you. Without input and participation from the fellows, there is no guarantee that your voice will be heard.</p><b></b><br /><br /><br /><p></p> ]]>
+</defaultSideText>
+
+<stateData stateName="Alabama" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>ALABAMA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Alaska" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>ALASKA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Arizona" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>ARIZONA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Arkansas" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>ARKANSAS</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="California" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>CALIFORNIA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Colorado" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>COLORADO</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Connecticut" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>CONNECTICUT</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Delaware" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>DELAWARE</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="District of Columbia" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>DISTRICT OF COLUMBIA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Florida" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>FLORIDA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Georgia" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>GEORGIA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Hawaii" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>HAWAII</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Idaho" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>IDAHO</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Illinois" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>ILLINOIS</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Indiana" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>INDIANA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Iowa" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>IOWA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Kansas" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>KANSAS</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>ta>
+
+<stateData stateName="Kentucky" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>KENTUCKY</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Louisiana" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>LOUISIANA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Maine" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MAINE</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Maryland" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MARYLAND</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Massachusetts" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MASSACHUSETTS</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Michigan" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MICHIGAN</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Minnesota" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MINNESOTA</h1><br /><p>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Mississippi" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MISSISSIPPI</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Missouri" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MISSOURI</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Montana" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>MONTANA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Nebraska" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NEBRASKA</h1><br /><p>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Nevada" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NEVADA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="New Hampshire" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NEW HAMPSHIRE</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="New Jersey" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NEW JERSEY</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="New Mexico" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NEW MEXICO</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="New York" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NEW YORK</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="North Carolina" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NORTH CAROLINA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="North Dakota" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>NORTH DAKOTA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Ohio" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>OHIO</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Oklahoma" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>OKLAHOMA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Oregon" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>OREGON</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Pennsylvania" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>PENNSYLVANIA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Rhode Island" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>RHODE ISLAND</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="South Carolina" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>SOUTH CAROLINA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="South Dakota"  url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>SOUTH DAKOTA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Tennessee" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>TENNESSEE</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Texas" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>TEXAS</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Utah" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>UTAH</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Vermont" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>VERMONT</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Virginia" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>VIRGINIA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Washington" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>WASHINGTON</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="176" height="246" src="images/WA_boc_clip_image002.jpg"/>
+<b>Nicholas Rajacich</b>
+<br>311  South L Street<br>Tacoma,    WA 98405<br>
+<br/>Tel: 253-403-1507
+<br/>Fax: 253-403-1641
+Email:<a href="mailto:Nick.Rajacich@multicare.org">Nick.Rajacich@multicare.org</a>
+<br/>1st Term Ends: 2018<br/>
+<br /> 
+<img width="174" height="234" src="images/WA_BOC-1.jpg"/>
+<b>Christopher A. Kontogianis, MD</b>
+<br>911 S. Washington Street, Suite B<br>Kennewick, WA 99336<br>
+<br/>Tel: 509-586-2828<br/>
+<br/>
+<br/>
+<br/>
+Email:<a href="mailto:k2lightspeed@hotmail.com">k2lightspeed@hotmail.com</a>
+<br/>Term Ends: 2018<br/>
+<br/>]]>
+</stateData>
+
+<stateData stateName="West Virginia" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>WEST VIRGINIA</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Wisconsin" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>WISCONSIN</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+<stateData stateName="Wyoming" url = "" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>WYOMING</h1>
+<b>CONTACTS:</b><br /><br />
+<img width="75" height="75" src="images/"/><b>John Doe</b><br /><br />Email: <a href="mailto:"></a><br />Tel: <br />Fax: <br /><br />]]>
+</stateData>
+
+
+</data>
